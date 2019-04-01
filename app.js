@@ -15,7 +15,7 @@ const Home = { template: `
 const Projects = { template: `
   <div>
     <h1>Projects</h1>
-    <p>Recent projects in which I was involved.</p>
+    <p>Some of the projects I was involved in.</p>
     <h2>Day <small class="text-muted">as a civil engineer</small></h2>
     <h5>Lem-Bud</h5>
     <ul>
