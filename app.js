@@ -132,6 +132,10 @@ const Publications = { template: `
     Macroelement analysis of thin orthotropic polygonal plate resting on the elastic winkler’s foundation.
     <em>AIP Conference Proceedings</em>, 2077(1):020014, 2019.
     URL: <a href="https://aip.scitation.org/doi/abs/10.1063/1.5091875">https://aip.scitation.org/doi/abs/10.1063/1.5091875</a>, <a href="https://arxiv.org/abs/https://aip.scitation.org/doi/pdf/10.1063/1.5091875">arXiv:https://aip.scitation.org/doi/pdf/10.1063/1.5091875</a>, <a href="https://doi.org/10.1063/1.5091875">doi:10.1063/1.5091875</a>.</dd>
+    <dt>22</dt>
+    <dd>Mykhaylo Delyavskyy and Krystian Rosiński.
+    Analysis of thin rectangular plate connected with space truss.
+    <em>MOSTY Tradycja i Nowoczesność. Wydawnictwa Uczelniane Uniwersytetu Technologiczno-Przyrodniczego w Bydgoszczy</em>, 2019.</dd>
     </dl>
   </div>
   `
