@@ -29,7 +29,7 @@ const Projects = { template: `
       <li>Extension of the hospital building in Gniezno <span class="badge badge-info">2017-2018</span> <span class="badge badge-secondary">PLN 61.4 mln</span></li>
       <li>Construction of a workshop building in the military complex in Jastrzębie <span class="badge badge-info">2016-2017</span> <span class="badge badge-secondary">PLN 15 mln</span></li>
       <li>Construction of a fuel station with additional warehouses in the military air base in Łask <span class="badge badge-info">2015-2017</span> <span class="badge badge-secondary">PLN 13.9 mln</span></li>
-      <li>Renovation of a training building for the army in Wroclaw <span class="badge badge-info">2014-2016</span> <span class="badge badge-secondary">PLN 23.3 mln</span></li>
+      <li>Renovation of a training building for the army in Wrocław <span class="badge badge-info">2014-2016</span> <span class="badge badge-secondary">PLN 23.3 mln</span></li>
       <li>Construction of a large-area high storage warehouse in the military complex in Kutno <span class="badge badge-info">2013-2015</span> <span class="badge badge-secondary">PLN 98.3 mln</span></li>
       <li>Construction of four wind farms in the Błaszki commune <span class="badge badge-info">2011-2012</span> <span class="badge badge-secondary">PLN 58.2 mln</span></li>
     </ul>
