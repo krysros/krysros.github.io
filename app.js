@@ -19,12 +19,13 @@ const Projects = { template: `
     <h2>Day <small class="text-muted">as a civil engineer</small></h2>
     <h5>Lem-Bud</h5>
     <ul>
-      <li>Awangarda housing estate in Toruń <span class="badge badge-info">2018-2019</span></li>
-      <li>Okólna 94 multi-family residential building in Toruń <span class="badge badge-info">2018-2019</span></li>
+      <li>Awangarda housing estate in Toruń <span class="badge badge-info">2018-2019</span> <span class="badge badge-secondary">N/A</span></li>
+      <li>Okólna 94 multi-family residential building in Toruń <span class="badge badge-info">2018-2019</span> <span class="badge badge-secondary">N/A</span></li>
       <li>Construction of kindergarten on the JAR estate in Toruń <span class="badge badge-info">2018</span> <span class="badge badge-secondary">PLN 9.9 mln</span></li>
     </ul>
     <h5>Alstal</h5>
     <ul>
+      <li>Modernization and adaptation of rooms as part of infrastructure development of the CKZiU and CKP in Poznań <span class="badge badge-info">2018</span> <span class="badge badge-secondary">PLN 14 mln</span></li>
       <li>Extension of the hospital building in Gniezno <span class="badge badge-info">2017-2018</span> <span class="badge badge-secondary">PLN 61.4 mln</span></li>
       <li>Construction of a workshop building in the military complex in Jastrzębie <span class="badge badge-info">2016-2017</span> <span class="badge badge-secondary">PLN 15 mln</span></li>
       <li>Construction of a fuel station with additional warehouses in the military air base in Łask <span class="badge badge-info">2015-2017</span> <span class="badge badge-secondary">PLN 13.9 mln</span></li>
@@ -34,7 +35,7 @@ const Projects = { template: `
     </ul>
     <h2>Night <small class="text-muted">as self-taught programmer</small></h2>
     <ul>
-      <li><a href="https://github.com/krysros/marker">Marker</a> – App for <a href="https://en.wikipedia.org/wiki/General_contractor">GC</a> <span class="badge badge-info">2016-2019</span></li>
+      <li><a href="https://github.com/krysros/marker">Marker</a> – App for <a href="https://en.wikipedia.org/wiki/General_contractor">GC</a> <span class="badge badge-info">2016-2019</span> <span class="badge badge-secondary">open source</span></li>
     </ul>
   </div>
   `
