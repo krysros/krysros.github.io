@@ -2,12 +2,7 @@ const Home = { template: `
   <div>
     <h1>Home</h1>
     <p class="lead">Hi! My name is Krystian and this is my personal website.</p>
-    <p>I'm Civil Engineer from <a href="https://www.google.com/maps/search/?api=1&query=Toruń">Toruń</a>, Poland. I graduated University of Science and Technology in Bydgoszcz at Faculty of Civil and Environmental Engineering. After study I started work at general contractor company as cost estimator, and next – leader of cost estimation team and project engineer.</p>
-    <p>As a cost estimator, I made bill of quantities based on documentation, prepared calculations of the costs of labor, materials and equipments, sent questions to ordering parties and inquiries to subcontractors, as well as verified and selected offers.</p>
-    <p>As the leader of cost estimation team, I was responsible for preparing a complex bids for tenders for both – private investors and public sector. It included especially analysis of requirements, documentation, estimating a risks, and of course – leading a team, calculating, checking and optimizing costs, coordination between branches and completing tender tender documents.</p>
-    <p>As a project engineer, I was responsible for keep within the timescale and budget of a project, and manage any delays or problem encountered on-site during a construction project. Among my main tasks were the preparation of production, negotiations, recommendations and construction contracts. Before site activity takes place I was responsible for managing communications between all parties involved in the on-site development of the project.</p>
-    <p>I worked on very different projects – starting from warehouses, industry and commercial constructions, wind farms through public buildings and housing investments.</p>
-    <p>I also worked at the university as an assistant and conducted exercises in theoretical mechanics and computer-aided design.</p>
+    <p>I'm Civil Engineer from <a href="https://www.google.com/maps/search/?api=1&query=Toruń">Toruń</a>, Poland. I graduated University of Science and Technology in Bydgoszcz at Faculty of Civil and Environmental Engineering. After study I started work at general contractor company as cost estimator, and next – leader of cost estimation team and project engineer. I worked on very different projects – starting from warehouses, industry and commercial constructions, wind farms through public buildings and housing investments.</p>
   </div>
   `
 }
