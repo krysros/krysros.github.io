@@ -119,15 +119,15 @@ const Publications = { template: `
     Метод розрахунку напружено-деформованого стану тонких криволінійних плит.
     <em>Вісник Львівського національного аграрного університету. Архітектура і сільськогосподарське будівництво</em>, 17:176, 2016.</dd>
     <dt>20</dt>
-    <dd>Delyavskyy M. and Rosiński K.
+    <dd>Mykhaylo Delyavskyy and Krystian Rosiński.
     Solution of non-rectangular plates with macroelement method.
-    <em>AIP Conference Proceedings</em>, 2017.
-    <a href="https://doi.org/http://aip.scitation.org/doi/abs/10.1063/1.4977679">doi:http://aip.scitation.org/doi/abs/10.1063/1.4977679</a>.</dd>
+    <em>AIP Conference Proceedings</em>, 1822(1):020005, 2017.
+    <a href="https://doi.org/10.1063/1.4977679">doi:10.1063/1.4977679</a>.</dd>
     <dt>21</dt>
     <dd>Mykhaylo Delyavskyy, Krystian Rosiński, Nina Zdolbicka, and Oksana Bilash.
     Macroelement analysis of thin orthotropic polygonal plate resting on the elastic winkler’s foundation.
     <em>AIP Conference Proceedings</em>, 2077(1):020014, 2019.
-    URL: <a href="https://aip.scitation.org/doi/abs/10.1063/1.5091875">https://aip.scitation.org/doi/abs/10.1063/1.5091875</a>, <a href="https://arxiv.org/abs/https://aip.scitation.org/doi/pdf/10.1063/1.5091875">arXiv:https://aip.scitation.org/doi/pdf/10.1063/1.5091875</a>, <a href="https://doi.org/10.1063/1.5091875">doi:10.1063/1.5091875</a>.</dd>
+    <a href="https://doi.org/10.1063/1.5091875">doi:10.1063/1.5091875</a>.</dd>
     <dt>22</dt>
     <dd>Mykhaylo Delyavskyy and Krystian Rosiński.
     Analysis of thin rectangular plate connected with space truss.
