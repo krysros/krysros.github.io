@@ -2,7 +2,7 @@ const Home = { template: `
   <div class="jumbotron">
     <h1>Home</h1>
     <p class="lead">Hi! My name is Krystian and this is my personal website.</p>
-    <p>I'm Civil Engineer from <a href="https://www.google.com/maps/search/?api=1&query=Toruń">Toruń</a>, Poland. I graduated University of Science and Technology in Bydgoszcz at Faculty of Civil and Environmental Engineering. After study I started work at general contractor company as cost estimator, and next – leader of cost estimation team and project engineer. I participated in projects such as warehouses, industry and commercial constructions, wind farms, public buildings and housing investments. The main scope of my work includes estimating, analyzing and optimizing costs and risks as well as contracting the execution of construction works. After hours I am interested in the theory of plates and modeling and solving engineering constructions.</p>
+    <p>I'm Civil Engineer from <a href="https://www.google.com/maps/search/?api=1&query=Toruń">Toruń</a>, Poland. I graduated University of Science and Technology in Bydgoszcz at Faculty of Civil and Environmental Engineering. After study I started work at general contractor company as cost estimator, and next – leader of cost estimation team and project engineer. I participated in projects such as warehouses, industry and commercial constructions, wind farms, public buildings and housing investments. The main scope of my work includes estimating, analyzing and optimizing costs and risks as well as contracting the execution of construction works. After hours I am interested in the structural mechanics and typography.</p>
   </div>
   `
 }
@@ -28,7 +28,7 @@ const Projects = { template: `
       <li>Construction of a large-area high storage warehouse in the military complex in Kutno <span class="badge badge-info">2013-2015</span> <span class="badge badge-secondary">PLN 98.3 mln</span></li>
       <li>Construction of four wind farms in the Błaszki commune <span class="badge badge-info">2011-2012</span> <span class="badge badge-secondary">PLN 58.2 mln</span></li>
     </ul>
-    <h2>Night <small class="text-muted">as self-taught programmer</small></h2>
+    <h2>Night <small class="text-muted">side projects</small></h2>
     <ul>
       <li><a href="https://github.com/krysros/marker">Marker</a> – App for <a href="https://en.wikipedia.org/wiki/General_contractor">GC</a> <span class="badge badge-info">2016-2019</span> <span class="badge badge-secondary">open source</span></li>
     </ul>
