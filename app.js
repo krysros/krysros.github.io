@@ -2,7 +2,7 @@ const Home = { template: `
   <div class="jumbotron">
     <h1>Home</h1>
     <p class="lead">Hi! My name is Krystian and this is my personal website. I turn coffee ☕ into valuable data 📈.</p>
-    <p>I'm Civil Engineer from <a href="https://www.google.com/maps/search/?api=1&query=Toruń">Toruń</a>, Poland. I graduated University of Science and Technology in Bydgoszcz at Faculty of Civil and Environmental Engineering. After study I started work at general contractor company as cost estimator, and next – leader of cost estimation team and project engineer. I participated in projects such as warehouses, industry and commercial constructions, wind farms, public buildings and housing investments. The main scope of my work includes estimating, analyzing and optimizing costs and risks as well as contracting the execution of construction works. After hours I am interested in the structural mechanics and typography.</p>
+    <p>I'm Civil Engineer from <a href="https://www.google.com/maps/search/?api=1&query=Toruń">Toruń</a>, Poland. I graduated University of Science and Technology in Bydgoszcz at Faculty of Civil and Environmental Engineering. After study I started work at general contractor company as cost estimator, and next – leader of cost estimation team and project engineer. I participated in projects such as warehouses, industry and commercial constructions, wind farms, public buildings and housing investments. The main scope of my work includes estimating, analyzing and optimizing costs and risks as well as contracting the execution of construction works. After hours I am interested in the structural mechanics. I am a member of <a href="http://ptmts.org.pl/">PTMTS</a>.</p>
   </div>
   `
 }
