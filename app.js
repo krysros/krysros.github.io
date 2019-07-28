@@ -145,21 +145,10 @@ const Contact = { template: `
   `
 }
 
-const Design = { template: `
-  <div>
-    <h1>Design</h1>
-    <p>Sometimes I use letters to express something more than words.</p>
-    <img src="awangarda.svg" class="img-fluid" alt="Awangarda">
-    <p>Logo based on <a href="http://emreparlak.com/major/">Major Mono Display</a> font and inspired by modern architecture of a 25-meter multi-dwelling units in Toruń named <i>Awangarda</i>. Nicolaus Copernicus would probably like to live on the top floor 🙂. It is not an official investment logo.</p>
-  </div>
-  `
-}
-
 const routes = [
   { path: '/', component: Home },
   { path: '/projects', component: Projects },
   { path: '/publications', component: Publications },
-  { path: '/design', component: Design },
   { path: '/contact', component: Contact },
 ]
 
