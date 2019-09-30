@@ -31,6 +31,7 @@ const Projects = { template: `
     <h2>Night <small class="text-muted">side projects</small></h2>
     <ul>
       <li><a href="https://github.com/krysros/marker">Marker</a> – database-driven application for General Contractors <span class="badge badge-info">2016-2019</span> <span class="badge badge-secondary">open source</span></li>
+      <li><a href="https://github.com/krysros/centurion">Centurion</a> – instant access to prices of materials, labor and equipment <span class="badge badge-info">2019</span> <span class="badge badge-secondary">open source</span></li>
     </ul>
   </div>
   `
