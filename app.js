@@ -12,13 +12,13 @@ const Projects = { template: `
     <h1>Projects</h1>
     <p>Some of the projects I was involved in.</p>
     <h2>Day <small class="text-muted">as a civil engineer</small></h2>
-    <h5>Lem-Bud</h5>
+    <h3>Lem-Bud</h3>
     <ul>
       <li>Awangarda housing estate in Toruń <span class="badge badge-info">2018-2019</span> <span class="badge badge-secondary">N/A</span></li>
       <li>Okólna 94 multi-family residential building in Toruń <span class="badge badge-info">2018-2019</span> <span class="badge badge-secondary">N/A</span></li>
       <li>Construction of kindergarten on the JAR estate in Toruń <span class="badge badge-info">2018</span> <span class="badge badge-secondary">PLN 9.9 mln</span></li>
     </ul>
-    <h5>Alstal</h5>
+    <h3>Alstal</h3>
     <ul>
       <li>Modernization and adaptation of rooms as part of infrastructure development of the CKZiU and CKP in Poznań <span class="badge badge-info">2018</span> <span class="badge badge-secondary">PLN 14 mln</span></li>
       <li>Extension of the hospital building in Gniezno <span class="badge badge-info">2017-2018</span> <span class="badge badge-secondary">PLN 61.4 mln</span></li>
