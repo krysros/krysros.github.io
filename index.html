@@ -1,48 +1,76 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="favicon.png" type="image/png">
-    <title>Kros Home Page</title>
-  </head>
-  <body>
-    <div id="app">
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-        <a class="navbar-brand" href="#"><img src="favicon.svg" alt="KR" height="30" width="30"></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbars" aria-controls="myNavbars" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbars">
-          <ul class="navbar-nav mr-auto">
-            <router-link tag="li" to="/" class="nav-item">
-              <a class="nav-link">Home</a>
-            </router-link>
-            <router-link tag="li" to="/projects" class="nav-item">
-              <a class="nav-link">Projects</a>
-            </router-link>
-            <router-link tag="li" to="/publications" class="nav-item">
-              <a class="nav-link">Publications</a>
-            </router-link>
-            <router-link tag="li" to="/contact" class="nav-item">
-              <a class="nav-link">Contact</a>
-            </router-link>
-          </ul>
-        </div>
-      </nav>
-      <router-view class="container"></router-view>
-    </div>
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <!-- Vue.js -->
-    <script src="https://unpkg.com/vue/dist/vue.js"></script>
-    <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
-    <script src="app.js"></script>
-  </body>
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Krystian Rosiński</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=Podkova:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="favicon.png" type="image/png">
+  <style>
+    body {
+      font-family: 'Podkova', serif;
+      font-size: calc(10px + 0.33vw);
+      -webkit-font-smoothing: antialiased;
+      padding: 5vh 10vw;
+      color: #121314;
+    }
+    h1 {
+      font-size: 4.5em;
+      font-weight: 700;
+      margin-bottom: 0;
+    }
+    p {
+      font-size: 1.6em;
+      font-weight: 400;
+      line-height: 1.4;
+      max-width: 26em;
+    }
+    a {
+      text-decoration: none;
+      color: #121314;
+      position: relative;
+    }
+    a:after {
+      content: "";
+      position: absolute;
+      z-index: -1;
+      top: 60%;
+      left: -0.1em;
+      right: -0.1em;
+      bottom: 0;
+      transition: top 200ms cubic-bezier(0, .8, .13, 1);
+      background-color: rgba(79,192,141,0.5);
+    }
+    a:hover:after {
+      top: 0%;
+    }
+  </style>
+</head>
+<body>
+  <h1><img src="favicon.svg" height="100" width="100" alt="KR"> Witaj!</h1>
+  <p style="font-weight:600; font-size:2.2em">
+    Mam na imię Krystian.<br>
+    Jestem inżynierem budownictwa z Torunia.
+  </p>
+  <p>
+    Pracuję na stanowisku Kierownika Działu Przygotowania Produkcji
+    w firmie deweloperskiej. Poprzednio jako Kierownik Zespołu Wycen,
+    Inżynier Projektu oraz Kosztorysant w firmie specjalizującej się
+    w generalnym wykonawstwie inwestycji budowlanych (10-100 mln PLN). 
+  </p>
+  <p>
+    Programuję w języku Python.
+    Rozwijam bazodanową aplikację internetową
+    <a href="https://github.com/krysros/marker" target="_blank">Marker</a>
+    usprawniającą proces ofertowania i analizy rynku materiałów i usług.
+  </p>
+  <p>
+    Jestem członkiem <a href="http://ptmts.org.pl/" target="_blank">PTMTS</a>.
+    Spis publikacji w formacie BibTeX znajdziesz <a href="https://github.com/krysros/publications/blob/master/references.bib" target="_blank">tutaj</a>.
+  </p>
+  <p>
+    Jeśli chcesz nawiązać kontakt, <a href="mailto:krystian.rosinski@gmail.com">napisz</a>.
+  </p>
+</body>
 </html>
