@@ -17,12 +17,12 @@ p, dt, dd {
 	max-width: 26em;
 }
 a:link {
-	color: #1d915d;
+	color: #4fc08d;
 	background-color: transparent;
 	text-decoration: none;
 }
 a:hover {
-	color: #1d915d;
+	color: #4fc08d;
 	background-color: transparent;
 	text-decoration: underline;
 }
