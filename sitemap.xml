@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://kros.xyz/</loc>
-         <lastmod>2023-02-02</lastmod>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kros.xyz/about/</loc>
-         <lastmod>2023-02-02</lastmod>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kros.xyz/projects/</loc>
-         <lastmod>2023-02-02</lastmod>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kros.xyz/publications/</loc>
-         <lastmod>2023-02-02</lastmod>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
