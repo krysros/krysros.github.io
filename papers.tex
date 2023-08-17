@@ -1,0 +1,26 @@
+% !TeX program = lualatex
+% !TeX encoding = UTF-8
+% !TeX spellcheck = pl_PL
+
+% $ lualatex papers
+% $ biber papers
+% $ lualatex papers
+
+\documentclass[11pt]{mwrep}
+\usepackage{fontspec}
+\setmainfont{Cambria}
+\setmonofont[Scale=MatchLowercase]{Consolas}
+
+\usepackage{polski}
+\usepackage[polish]{babel}
+\usepackage[backend=biber,bibencoding=utf8,maxbibnames=10,language=auto,autolang=langname,sorting=ydnt]{biblatex}
+\addbibresource{papers.bib}
+\usepackage{url}
+\usepackage[autostyle]{csquotes}
+
+\emergencystretch=1em
+
+\begin{document}
+\nocite{*}
+\printbibliography
+\end{document}
