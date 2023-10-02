@@ -1,20 +1,20 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.8.13)  17 AUG 2023 17:35
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.10.2)  2 OCT 2023 19:33
  restricted system commands enabled.
 **papers
 (./papers.tex
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-11>
-Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
-Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended c
+L3 programming layer <2023-08-29>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
 ollection.
 luaotfload | conf : Root cache directory is "C:/texlive/2023/texmf-var/luatex-ca
 che/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-res
-olved path "c:/texlive/2023/texmf-dist/tex/luatex/luaotfload/fontloader-2022-10-
-03.lua".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "c:/texlive/2023/texmf-dist/tex/luatex/luaotfload/fontloader-2023-08-
+19.lua".
 Lua-only attribute luaotfload@noligature = 1
-luaotfload | init : Context OpenType loader version 3.120
+luaotfload | init : Context OpenType loader version 3.133
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
@@ -65,7 +65,7 @@ ex-cache/generic/names/luaotfload-names.luc.gz)
 (c:/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.sty
 (c:/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (c:/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-08-11 L3 programming layer (loader) 
+Package: expl3 2023-08-29 L3 programming layer (loader) 
 
 (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
@@ -73,7 +73,7 @@ File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box51
 ))
-Package: xparse 2023-02-02 L3 Experimental document command parser
+Package: xparse 2023-08-29 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
@@ -204,77 +204,23 @@ Package: polski 2021/08/25 v1.3.6 Polish language package
 
 (c:/texlive/2023/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-pl.tex))
 (c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2023/07/15 v3.92 The Babel package
+Package: babel 2023/09/29 v3.95 The Babel package
 
 (c:/texlive/2023/texmf-dist/tex/generic/babel/luababel.def
 \bbl@readstream=\read2
 \l@dumylang=\language3
 Package babel Info: Non-standard hyphenation setup on input line 118.
 \l@nohyphenation=\language4
-\l@german-x-2023-03-06=\language5
-\l@ngerman-x-2023-03-06=\language6
-\l@ancientgreek=\language7
-\l@ibycus=\language8
-\l@basque=\language9
-\l@belarusian=\language10
-\l@bulgarian=\language11
-\l@catalan=\language12
-\l@churchslavonic=\language13
-\l@croatian=\language14
-\l@czech=\language15
-\l@danish=\language16
-\l@dutch=\language17
-\l@ukenglish=\language18
-\l@usenglishmax=\language19
-\l@estonian=\language20
-\l@finnish=\language21
-\l@schoolfinnish=\language22
-\l@french=\language23
-\l@friulan=\language24
-\l@galician=\language25
-\l@german=\language26
-\l@ngerman=\language27
-\l@swissgerman=\language28
-\l@greek=\language29
-\l@monogreek=\language30
-\l@hungarian=\language31
-\l@icelandic=\language32
-\l@irish=\language33
-\l@italian=\language34
-\l@kurmanji=\language35
-\l@classiclatin=\language36
-\l@latin=\language37
-\l@liturgicallatin=\language38
-\l@latvian=\language39
-\l@lithuanian=\language40
-\l@macedonian=\language41
-\l@mongolian=\language42
-\l@mongolianlmc=\language43
-\l@bokmal=\language44
-\l@nynorsk=\language45
-\l@occitan=\language46
-\l@piedmontese=\language47
-\l@polish=\language48
-\l@portuguese=\language49
-\l@romanian=\language50
-\l@romansh=\language51
-\l@russian=\language52
-\l@serbian=\language53
-\l@serbianc=\language54
-\l@slovak=\language55
-\l@slovenian=\language56
-\l@spanish=\language57
-\l@swedish=\language58
-\l@turkish=\language59
-\l@ukrainian=\language60
-\l@uppersorbian=\language61
-\l@welsh=\language62
+\l@vietnamese=\language5
+\l@hebrew=\language6
+\l@polish=\language7
+\l@ukrainian=\language8
 \babelcatcodetablenum=\catcodetable14
 \bbl@pattcodes=\catcodetable15
 )
 \babel@savecnt=\count270
 \U@D=\dimen144
-\l@unhyphenated=\language63
+\l@unhyphenated=\language9
 
 (c:/texlive/2023/texmf-dist/tex/generic/babel/luababel.def
 \bbl@attr@locale=\attribute4
@@ -392,7 +338,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip57
 \blx@bcfin=\read3
 \blx@bcfout=\write3
-\blx@langwohyphens=\language64
+\blx@langwohyphens=\language10
 \c@mincomprange=\count316
 \c@maxcomprange=\count317
 \c@mincompwidth=\count318
@@ -555,7 +501,7 @@ Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2023-08-11 L3 programming layer (loader) 
+(biblatex)             2023-08-29 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -601,86 +547,86 @@ UTF-8 Ukrainian hyphenation patterns
 tex)))
 \openout1 = papers.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
-3.
+5.
  (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 23.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 23.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 23.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 23.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 23.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 23.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 23.
-LaTeX Font Info:    Redeclaring math accent \check on input line 23.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 23.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 23.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 23.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 23.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 25.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 25.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 25.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 25.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 25.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 25.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 25.
+LaTeX Font Info:    Redeclaring math accent \check on input line 25.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 25.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 25.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 25.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 25.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 23.
+(Font)              `operators' in the math version `normal' on input line 25.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Cambria(0)/m/n on input line 23.
+(Font)                  OT1/cmr/m/n --> TU/Cambria(0)/m/n on input line 25.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 23.
+(Font)              `operators' in the math version `bold' on input line 25.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Cambria(0)/m/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> TU/Cambria(0)/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/Cambria(0)/m/n --> TU/Cambria(0)/m/n on input line 2
-3.
+5.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Cambria(0)/m/it on input line 23.
+(Font)                  OT1/cmr/m/it --> TU/Cambria(0)/m/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Cambria(0)/b/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> TU/Cambria(0)/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 23.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/Consolas(0)/m/n on input line 23.
+(Font)                  OT1/cmtt/m/n --> TU/Consolas(0)/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/Cambria(0)/m/n --> TU/Cambria(0)/b/n on input line 2
-3.
+5.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Cambria(0)/b/it on input line 23.
+(Font)                  OT1/cmr/bx/it --> TU/Cambria(0)/b/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 23.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/Consolas(0)/b/n on input line 23.
+(Font)                  OT1/cmtt/m/n --> TU/Consolas(0)/b/n on input line 25.
 Package biblatex Info: Trying to load language 'polish'...
 Package biblatex Info: ... file 'polish.lbx' found.
 
@@ -708,31 +654,44 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'papers.bbl' found.
  (./papers.bbl)
-Package biblatex Info: Reference section=0 on input line 23.
-Package biblatex Info: Reference segment=0 on input line 23.
+Package biblatex Info: Reference section=0 on input line 25.
+Package biblatex Info: Reference segment=0 on input line 25.
 
 
 LaTeX Font Warning: Font shape `TU/Cambria(0)/b/n' undefined
-(Font)              using `TU/Cambria(0)/m/n' instead on input line 25.
+(Font)              using `TU/Cambria(0)/m/n' instead on input line 27.
 
 LaTeX Font Info:    Font shape `TU/Consolas(0)/m/n' will be
-(Font)              scaled to size 10.42651pt on input line 25.
+(Font)              scaled to size 10.42651pt on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 25.
+(Font)              <10.95> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 25.
+(Font)              <8> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 25.
+(Font)              <6> on input line 27.
+
+Overfull \hbox (9.49664pt too wide) in paragraph at lines 28--28
+\TU/Cambria(0)/m/n/10.95 go-ska, 2021. \TU/Cambria(0)/m/sc/10.95 󰀕󰀒󰀌\T
+U/Cambria(0)/m/n/10.95 : $\TU/Consolas(0)/m/n/10.95 https : / / dlibra . pbs . 
+edu . pl / dlibra / publication /
+ []
+
+
+Overfull \hbox (7.1594pt too wide) in paragraph at lines 28--28
+[]\TU/Cambria(0)/m/n/10.95 Mykhaylo Delyavskyy and Krys-tian Rosiński. “  So
+-lu-tion of non-rectangular
+ []
+
 [1
 
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (3.21773pt too wide) in paragraph at lines 26--26
+Overfull \hbox (3.21773pt too wide) in paragraph at lines 28--28
 []\TU/Cambria(0)/m/n/10.95 My-khaylo De-ly-avskyy, Alek-san-dra Nie-spo-dziana, Ma-ria Olej-ni-czak, Adam
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 26--26
+Underfull \hbox (badness 1102) in paragraph at lines 28--28
 []\TU/Cambria(0)/m/n/10.95 My-khaylo De-ly-avskyy i Kry-stian Ro-siń-ski. 
 „  Roz-wią-za-nie kon-struk-cji
  []
@@ -740,7 +699,7 @@ Underfull \hbox (badness 1102) in paragraph at lines 26--26
 [2] [3] (./papers.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-11>
+L3 programming layer <2023-08-29>
  ***********
 
 
@@ -758,18 +717,18 @@ Package logreq Info: Writing requests to 'papers.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13419 strings out of 477514
+ 13350 strings out of 477259
  125161,1977958 words of node,token memory allocated
  509 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 7 attribute, 61 glue_spec,
  5 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1274,3:392,4:8,5:1333,6:27,7:7629,8:62,9:175,10:6,11:956
- 34267 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:1182,3:355,4:8,5:1329,6:25,7:7694,8:62,9:171,10:6,11:981
+ 34453 multiletter control sequences out of 65536+600000
  51 fonts using 19746895 bytes
- 79i,6n,119p,940b,2750s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,5n,119p,940b,2750s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/consola.ttf><c:/Windows/Fonts/cambriai.ttf><c:/Windows/Fonts/c
 ambria.ttc>
-Output written on papers.pdf (3 pages, 99616 bytes).
+Output written on papers.pdf (3 pages, 99648 bytes).
 
 PDF statistics: 35 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream

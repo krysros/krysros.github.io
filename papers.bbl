@@ -91,6 +91,9 @@
            given={Krystian},
            giveni={K\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Politechnika Bydgoska}%
+      }
       \list{language}{1}{%
         {polish}%
       }
@@ -194,7 +197,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{MOSTY Tradycja i Nowoczesność. Wydawnictwa Uczelniane Uniwersytetu Technologiczno{\hyphen}Przyrodniczego w Bydgoszczy}
+      \field{journaltitle}{MOSTY Tradycja i Nowoczesność. Wydawnictwa Uczelniane Uniwersytetu Technologiczno-Przyrodniczego w Bydgoszczy}
       \field{langid}{english}
       \field{title}{Analysis of thin rectangular plate connected with space truss}
       \field{year}{2019}
@@ -280,7 +283,7 @@
       \field{journaltitle}{AIP Conference Proceedings}
       \field{langid}{english}
       \field{number}{1}
-      \field{title}{Solution of non{\hyphen}rectangular plates with macroelement method}
+      \field{title}{Solution of non-rectangular plates with macroelement method}
       \field{volume}{1822}
       \field{year}{2017}
       \true{nocite}
@@ -396,7 +399,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{V Międzynarodowa Konferencja Mostowa im. Rudolfa Modrzejewskiego}
       \field{langid}{polish}
-      \field{title}{Analiza statyczno{\hyphen}wytrzymałościowa układu płytowo{\hyphen}kratowego w ujęciu makroelementowym}
+      \field{title}{Analiza statyczno-wytrzymałościowa układu płytowo-kratowego w ujęciu makroelementowym}
       \field{year}{2016}
       \true{nocite}
     \endentry
@@ -461,7 +464,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Вісник Львівського національного аграрного університету. Архітектура і сільськогосподарське будівництво}
       \field{langid}{ukrainian}
-      \field{title}{Метод розрахунку напружено{\hyphen}деформованого стану тонких криволінійних плит}
+      \field{title}{Метод розрахунку напружено-деформованого стану тонких криволінійних плит}
       \field{volume}{17}
       \field{year}{2016}
       \true{nocite}
@@ -554,9 +557,9 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{MOSTY Tradycja i Nowoczesność. Wydawnictwa Uczelniane Uniwersytetu Technologiczno{\hyphen}Przyrodniczego w Bydgoszczy}
+      \field{journaltitle}{MOSTY Tradycja i Nowoczesność. Wydawnictwa Uczelniane Uniwersytetu Technologiczno-Przyrodniczego w Bydgoszczy}
       \field{langid}{polish}
-      \field{title}{Określenie przemieszczeń i sił wewnętrznych w elementach stalowej konstrukcji płytowo{\hyphen}kratowej}
+      \field{title}{Określenie przemieszczeń i sił wewnętrznych w elementach stalowej konstrukcji płytowo-kratowej}
       \field{year}{2015}
       \true{nocite}
     \endentry
@@ -602,7 +605,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Wybrane zagadnienia konstrukcji i materiałów budowlanych oraz geotechniki. Wydawnictwa Uczelniane Uniwersytetu Technologiczno{\hyphen}Przyrodniczego w Bydgoszczy}
+      \field{journaltitle}{Wybrane zagadnienia konstrukcji i materiałów budowlanych oraz geotechniki. Wydawnictwa Uczelniane Uniwersytetu Technologiczno-Przyrodniczego w Bydgoszczy}
       \field{langid}{polish}
       \field{title}{Analiza statyczna płyty izotropowej o średniej grubości}
       \field{year}{2015}
@@ -671,7 +674,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Wybrane zagadnienia konstrukcji i materiałów budowlanych oraz geotechniki. Wydawnictwa Uczelniane Uniwersytetu Technologiczno{\hyphen}Przyrodniczego w Bydgoszczy}
+      \field{journaltitle}{Wybrane zagadnienia konstrukcji i materiałów budowlanych oraz geotechniki. Wydawnictwa Uczelniane Uniwersytetu Technologiczno-Przyrodniczego w Bydgoszczy}
       \field{langid}{polish}
       \field{title}{Rozwiązanie konstrukcji inżynierskich w ujęciu makroelementowym}
       \field{year}{2015}
@@ -721,7 +724,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{II Polsko{\hyphen}Ukraińska Międzynarodowa Konferencja, Aktualne Problemy Konstrukcji Metalowych}
+      \field{booktitle}{II Polsko-Ukraińska Międzynarodowa Konferencja, Aktualne Problemy Konstrukcji Metalowych}
       \field{langid}{polish}
       \field{title}{Określenie przemieszczeń i sił wewnętrznych w elementach stalowej konstrukcji mostowej}
       \field{year}{2014}
@@ -836,7 +839,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{BRIDGES Tradition and Future. University Press University of Technology and Life Sciences in Bydgoszcz}
       \field{langid}{polish}
-      \field{title}{Metoda rozwiązywania układów płytowo{\hyphen}kratowych}
+      \field{title}{Metoda rozwiązywania układów płytowo-kratowych}
       \field{year}{2013}
       \true{nocite}
     \endentry
@@ -982,7 +985,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Наукові Нотатки}
       \field{langid}{ukrainian}
-      \field{title}{Напружено{\hyphen}деформований стан товстої ортотропої прямокутної плити}
+      \field{title}{Напружено-деформований стан товстої ортотропої прямокутної плити}
       \field{year}{2011}
       \true{nocite}
     \endentry
