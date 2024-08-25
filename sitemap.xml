@@ -6,12 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://kros.xyz/papers/</loc>
+         <lastmod>2024-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://kros.xyz/projects/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kros.xyz/publications/</loc>
+         <loc>https://kros.xyz/slides/</loc>
          <lastmod>2024-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
