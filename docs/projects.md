@@ -14,7 +14,7 @@ On this page you will find selected projects in which I recently participated.
 
 ### Business applications
 
-* [Marker](https://github.com/krysros/Marker) – CRM for General Contractors as Project Creator and Software Developer
+* [Marker](https://github.com/krysros/Marker) – Business intelligence tool for general contractors as Project Creator and Software Developer
 * [contract](https://github.com/krysros/contract) – Generate contracts from docx template and yaml file data
 
 ### Technical computing
