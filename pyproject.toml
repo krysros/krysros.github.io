@@ -8,5 +8,5 @@ dependencies = []
 
 [dependency-groups]
 dev = [
-    "zensical",
+    "zensical>=0.0.33",
 ]
