@@ -9,3 +9,7 @@ Aside from that I'm interested in structural mechanics [2], technical computing 
 3. Find me on [GitHub](https://github.com/krysros)
 
 For more information, see [Projects](projects.md), [Papers](papers.md), [Slides](slides.md) and [Conferences](conferences.md).
+
+[1]: https://www.linkedin.com/in/krystian-rosinski/
+[2]: https://ptmts.pbs.edu.pl/
+[3]: https://github.com/krysros
