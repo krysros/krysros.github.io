@@ -7,7 +7,6 @@ nav = [
     {"Projects" = "projects.md"},
     {"Papers" = "papers.md"},
     {"Slides" = "slides.md"},
-    {"Conferences" = "conferences.md"},
 ]
 
 [project.theme]
